@@ -1,0 +1,88 @@
+.badan_tabel{
+margin:auto;
+border:0px solid #999999;
+}
+.header{
+background-color:#ffffff;
+padding:5px;
+height:175px;
+color:white;
+FONT-WEIGHT:BOLD;
+font-size: 35;
+text-align:center;
+}
+.sidebar{
+background-color:grey;
+padding:10px;
+height:10px;
+}
+.judulform{
+background-color:#55251B;
+padding:1px;
+height:1px;
+color:white;
+}
+.footer{
+background-color:#566892;
+padding:1px;
+height:1px;
+color:white;
+text-align:center;
+}
+.konten{
+background-color:#F9DEB1;
+}
+.menu{
+background-color:#E9A63E;
+margin:0px;
+width:auto;
+padding:0px;
+}
+.menu li{
+float:left;
+display:block;
+list-style-type:none;
+border-right-width:1px;
+border-right-style:solid;
+border-right-color:#FFFFFF;
+padding:10px;
+}
+.menu li:hover{
+background-color:#BD822A;
+
+}
+.menu li a{
+text-decoration:none;
+color:black;
+}
+.menu li a:hover{
+font-weight:bold;
+color:white;
+
+}
+.menus{
+background-color:#D17A57;
+margin:0px;
+width:auto;
+padding:0px;
+}
+.menus li{
+float:right;
+display:block;
+list-style-type:none;
+border-right-width:1px;
+border-right-style:solid;
+border-right-color:#FFFFFF;
+padding:10px;
+}
+.menus li:hover{
+background-color:#EBA89A;
+}
+.menus li a{
+text-decoration:none;
+color:black;
+}
+.menus li a:hover{
+font-weight:bold;
+color:white;
+}
